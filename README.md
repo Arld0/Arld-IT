@@ -3,7 +3,7 @@
 
 <h2>👨‍💻IT Helpdesk Project:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Arld0/ActiveDirectoryLab)
 
 
 <h2>📄 Certifications</h2>
